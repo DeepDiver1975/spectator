@@ -1,21 +1,23 @@
 <p align="center"><img src="https://spectator.s3.us-east-2.amazonaws.com/spectator-logo.png" width="300"></p>
 
+# ONLY TEMPORARY ON COMPOSER
+
 # Spectator
 
 Spectator provides light-weight OpenAPI testing tools you can use within your existing Laravel test suite.
 
 Write tests that verify your API spec doesn't drift from your implementation.
 
-![Tests](https://github.com/hotmeteor/spectator/workflows/Tests/badge.svg)
-[![Latest Version on Packagist](https://img.shields.io/packagist/vpre/hotmeteor/spectator.svg?style=flat-square)](https://packagist.org/packages/hotmeteor/spectator)
-![PHP from Packagist](https://img.shields.io/packagist/php-v/hotmeteor/spectator)
+![Tests](https://github.com/DeepDiver1975/spectator/workflows/Tests/badge.svg)
+[![Latest Version on Packagist](https://img.shields.io/packagist/vpre/deepdiver/spectator.svg?style=flat-square)](https://packagist.org/packages/deepdiver/spectator)
+![PHP from Packagist](https://img.shields.io/packagist/php-v/deepdiver/spectator)
 
 ## Installation
 
 You can install the package through Composer.
 
 ```bash
-composer require hotmeteor/spectator --dev
+composer require deepdiver/spectator --dev
 ```
 
 Then, publish the config file of this package with this command:
